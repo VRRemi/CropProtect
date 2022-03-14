@@ -1,0 +1,6 @@
+name: CropProtect
+version: '${project.version}'
+main: dev.vrremi.cropprotect.Main
+api-version: 1.14
+authors: [ VRRemi ]
+description: A plugin that protects crops
